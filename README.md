@@ -1,11 +1,11 @@
 # homebrew-flipio
 
-Homebrew tap for [Flipio](https://github.com/pavgol/flipio), a macOS menu bar app that instantly converts text between keyboard layouts.
+Homebrew tap for [Flipio](https://github.com/pggolub/flipio), a macOS menu bar app that instantly converts text between keyboard layouts.
 
 ## Install
 
 ```bash
-brew tap pavgol/flipio
+brew tap pggolub/flipio
 brew install --cask flipio
 ```
 
